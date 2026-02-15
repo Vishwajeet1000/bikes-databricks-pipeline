@@ -1,4 +1,4 @@
-# bikes-databricks-pipeline
+# Bikes-Databricks-Pipeline
 
 # NOTES
 These notebooks are part of a Databricks Medallion Architecture example. All credentials, paths, and data sources are mocked or abstracted for security reasons.
